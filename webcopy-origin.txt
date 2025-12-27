@@ -1,0 +1,148 @@
+Uri: https://app.landingpage.com.br/img/favicon.ico
+File Name: C:\Downloaded Web Sites\pagina.pro\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://empreender.nyc3.digitaloceanspaces.com/landingpage/69426b96e740d.jpeg
+File Name: C:\Downloaded Web Sites\pagina.pro\landingpage\69426b96e740d.jpeg
+Content Type: image/jpeg
+
+Uri: https://empreender.nyc3.digitaloceanspaces.com/landingpage/69426b97ef649.jpeg
+File Name: C:\Downloaded Web Sites\pagina.pro\landingpage\69426b97ef649.jpeg
+Content Type: image/jpeg
+
+Uri: https://empreender.nyc3.digitaloceanspaces.com/static/LANDINGPAGE/20250815-134103-8552gz.css
+File Name: C:\Downloaded Web Sites\pagina.pro\static\LANDINGPAGE\20250815-134103-8552gz.css
+Content Type: text/css
+
+Uri: https://empreender.nyc3.digitaloceanspaces.com/static/LANDINGPAGE/20250917-150019-8086_gz.js
+File Name: C:\Downloaded Web Sites\pagina.pro\static\LANDINGPAGE\20250917-150019-8086_gz.js
+Content Type: text/javascript
+
+Uri: https://empreender.nyc3.digitaloceanspaces.com/static/LANDINGPAGE/formulario/app.bundle.js
+File Name: C:\Downloaded Web Sites\pagina.pro\static\LANDINGPAGE\formulario\app.bundle.js
+Content Type: text/javascript
+
+Uri: https://empreender.nyc3.digitaloceanspaces.com/static/LANDINGPAGE/parallaxInstancia
+File Name: C:\Downloaded Web Sites\pagina.pro\static\LANDINGPAGE\parallaxInstancia
+Content Type: text/javascript
+
+Uri: https://empreender.nyc3.digitaloceanspaces.com/static/LANDINGPAGE/script-progresso
+File Name: C:\Downloaded Web Sites\pagina.pro\static\LANDINGPAGE\script-progresso
+Content Type: text/javascript
+
+Uri: https://empreender.nyc3.digitaloceanspaces.com/static/LANDINGPAGE/wow
+File Name: C:\Downloaded Web Sites\pagina.pro\static\LANDINGPAGE\wow
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap
+File Name: C:\Downloaded Web Sites\pagina.pro\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhRTM.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83A3ig.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83A3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHc3ig.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHc3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3c3ig.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3c3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXA3ig.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXc3ig.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXc3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3A3ig.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3A3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXA3ig.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSnc3ig.ttf
+File Name: C:\Downloaded Web Sites\pagina.pro\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSnc3ig.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/cdb0b0a676.js
+File Name: C:\Downloaded Web Sites\pagina.pro\cdb0b0a676.js
+Content Type: text/javascript
+
+Uri: https://pagina.pro/minha-1-pagina-s4flv
+File Name: C:\Downloaded Web Sites\pagina.pro\minha-1-pagina-s4flv.html
+Content Type: text/html
+
